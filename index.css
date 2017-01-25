@@ -1,0 +1,17 @@
+.borderless td, .borderless th {
+    border: none;
+}
+
+body {
+    margin: 30px 30px 30px 30px;
+}
+
+div {
+    width:auto;
+    height:32px;
+    background:#F1F1F1;
+    border-radius: 15px 15px 15px 15px;
+    overflow:hidden;
+    font-size: 18;
+    font-family: sans-serif;
+}
